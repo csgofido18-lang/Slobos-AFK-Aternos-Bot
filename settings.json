@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MChana.aternos.me",
+    "ip": "MChana.aternos.me:55143",
     "port": 55143,
     "version": "",
     "try-creative": false
